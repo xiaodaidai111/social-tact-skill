@@ -20,8 +20,6 @@ Before writing, infer or ask for:
 
 Read `references/context-personality-analysis.md` for high-stakes or unclear situations.
 Read `references/high-eq-response-patterns.md` when the user needs to respond to teasing, awkwardness, criticism, misunderstanding, "you sound like AI", "you made me confused", or other live-chat friction.
-For real chat calibration examples, see the repository-level `examples/real-chat-examples.md` if available.
-
 ## Core Principles
 
 1. **先分析人**: match wording to the other person's personality and communication style.

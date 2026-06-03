@@ -74,10 +74,6 @@ New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills" | Out-Null;
 - `adapters/gemini-deepseek-kimi.md`：Gemini、DeepSeek、Kimi、通义、豆包通用用法。
 - `adapters/cursor-claude-code.md`：Cursor、Claude Code、代码编辑器 Agent 用法。
 
-## 示例
-
-更多真实聊天示例见：`examples/real-chat-examples.md`
-
 ```text
 Use $gongwei-hua 帮我写三句夸领导今天分享的发言。领导性格比较务实，不喜欢太夸张，语气自然一点。
 ```
