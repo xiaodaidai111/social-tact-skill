@@ -19,6 +19,7 @@ Before writing, infer or ask for:
 6. **风险点**: greasy, vague, too hard, too weak, too flattering, too intimate, too pushy, blame-shifting.
 
 Read `references/context-personality-analysis.md` for high-stakes or unclear situations.
+Read `references/high-eq-response-patterns.md` when the user needs to respond to teasing, awkwardness, criticism, misunderstanding, "you sound like AI", "you made me confused", or other live-chat friction.
 
 ## Core Principles
 
@@ -62,10 +63,19 @@ Unless the user asks otherwise, provide:
 - Face-conscious person: preserve dignity and avoid public correction.
 - Humorous person: allow lightness, but keep the main point clear.
 
+## High-EQ Reply Pattern
+
+For awkward or teasing moments, prefer:
+
+```text
+接住情绪 + 自嘲/认领一点 + 澄清本意 + 轻松收尾
+```
+
+Do not over-explain. When the other person is laughing, confused, or teasing, lower the intensity first.
+
 ## Safety And Boundaries
 
 - Do not encourage deception, manipulation, bribery, coercion, harassment, or romantic pressure.
 - Do not make compliments sexual, invasive, or body-focused unless the user clearly asks for a harmless intimate context.
 - For workplace, teacher-student, elder-junior, or client settings, prefer respectful and specific wording.
 - Avoid exaggerated claims that sound fake.
-
