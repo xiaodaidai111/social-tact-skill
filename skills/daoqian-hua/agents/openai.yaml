@@ -1,0 +1,9 @@
+interface:
+  display_name: "道歉话"
+  short_description: "写承担责任、有补救方案的中文道歉。"
+  brand_color: "#E53E3E"
+  default_prompt: "Use $daoqian-hua to write an appropriate Chinese apology for this situation."
+
+policy:
+  allow_implicit_invocation: true
+

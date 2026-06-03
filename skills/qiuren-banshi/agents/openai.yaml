@@ -1,0 +1,9 @@
+interface:
+  display_name: "求人办事"
+  short_description: "请人帮忙、请教、引荐时说得低压力又清楚。"
+  brand_color: "#3182CE"
+  default_prompt: "Use $qiuren-banshi to write a respectful Chinese request for help."
+
+policy:
+  allow_implicit_invocation: true
+

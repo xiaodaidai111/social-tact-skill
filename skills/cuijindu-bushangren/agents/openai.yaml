@@ -1,0 +1,9 @@
+interface:
+  display_name: "催进度不伤人"
+  short_description: "催回复、催确认、催交付，客气但能推进。"
+  brand_color: "#2B6CB0"
+  default_prompt: "Use $cuijindu-bushangren to write a polite Chinese follow-up message."
+
+policy:
+  allow_implicit_invocation: true
+

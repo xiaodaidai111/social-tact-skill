@@ -1,0 +1,9 @@
+interface:
+  display_name: "饭局场面话"
+  short_description: "饭局开场、敬酒、感谢、圆场都不尴尬。"
+  brand_color: "#C05621"
+  default_prompt: "Use $fanju-changmianhua to write appropriate Chinese dinner-table wording."
+
+policy:
+  allow_implicit_invocation: true
+
