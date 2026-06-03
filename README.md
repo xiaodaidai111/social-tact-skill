@@ -30,17 +30,10 @@
 
 ## 安装到 Codex
 
+在项目根目录运行这一条就行：
+
 ```powershell
-Copy-Item -Recurse .\skills\renqing-shigu $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\gongwei-hua $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\ganxie-hua $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\daoqian-hua $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\tuiju-hua $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\qiuren-banshi $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\fanju-changmianhua $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\songli-huashu $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\cuijindu-bushangren $env:USERPROFILE\.codex\skills\
-Copy-Item -Recurse .\skills\pengyou-quanquan $env:USERPROFILE\.codex\skills\
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills" | Out-Null; Copy-Item -Recurse -Force .\skills\* "$env:USERPROFILE\.codex\skills\"
 ```
 
 重启 Codex 或重新加载 Skills 后使用。
@@ -114,4 +107,3 @@ UNIVERSAL_PROMPTS.md
 ## License
 
 MIT
-
