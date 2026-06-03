@@ -33,6 +33,10 @@ Analyze the poster's mood, relationship closeness, public visibility, and person
 3. `温暖版`
 4. `别这么说`
 
+## Real Chat Style
+
+Social comments should be short and alive. Do not turn a Moments comment or group reply into a formal compliment.
+
 ## Rules
 
 - Keep comments short.

@@ -33,6 +33,10 @@ Analyze the seating context, who has higher status, whether alcohol is involved,
 3. `更正式版`
 4. `别这么说`
 
+## Real Chat Style
+
+Dinner-table wording must sound speakable. Keep it short enough to say aloud without feeling like a script.
+
 ## Rules
 
 - Keep it short enough to say aloud.

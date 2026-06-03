@@ -29,6 +29,10 @@ Analyze urgency, prior reminders, relationship, and the other person's personali
 3. `正式工作版`
 4. `不要这么说`
 
+## Real Chat Style
+
+For reminders, write like a real follow-up message: short, clear, and easy to answer. Do not sound passive-aggressive.
+
 ## Rules
 
 - Avoid blame unless the user explicitly needs escalation.

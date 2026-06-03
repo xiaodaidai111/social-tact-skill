@@ -29,6 +29,10 @@ Analyze the request, relationship cost, boundary needed, and the other person's 
 3. `关系保留版`
 4. `不要这么说`
 
+## Real Chat Style
+
+For real chat, avoid long excuses. A short, clear refusal usually feels more natural and less negotiable.
+
 ## Rules
 
 - Do not give long excuses that invite negotiation.

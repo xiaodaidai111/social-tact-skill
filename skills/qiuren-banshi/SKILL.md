@@ -29,6 +29,10 @@ Analyze the person's likely willingness, time pressure, relationship distance, a
 3. `熟人版`
 4. `分寸提醒`
 
+## Real Chat Style
+
+In WeChat requests, use one clear ask and one soft landing. Do not bury the request under too much politeness.
+
 ## Rules
 
 - Make the request specific and easy to answer.

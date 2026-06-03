@@ -29,6 +29,10 @@ Analyze the gift, relationship, risk of looking transactional, and the other per
 3. `亲近版`
 4. `分寸提醒`
 
+## Real Chat Style
+
+Gift wording should sound casual and low-pressure unless the relationship is formal. Do not make the gift sound like a transaction.
+
 ## Rules
 
 - Do not imply exchange of benefits.

@@ -29,6 +29,10 @@ Identify the relationship, what the person did, the user's real benefit, and the
 3. `更正式版`
 4. `分寸提醒`
 
+## Real Chat Style
+
+Match the channel. A WeChat thank-you can be one warm sentence; a formal note can be more complete. Do not make casual gratitude sound like a public speech.
+
 ## Rules
 
 - Mention what the person actually did.

@@ -54,6 +54,18 @@ Unless the user asks otherwise, provide:
 - `不建议这么说`: risky wording to avoid.
 - `分寸提醒`: 1-3 short cautions.
 
+## Real Chat Layer
+
+Before applying any formula, decide how real people would reply in that channel.
+
+- WeChat private chat: short, loose, sometimes incomplete.
+- Work chat: clear, restrained, action-oriented.
+- Close friend chat: natural, not over-polished, not forced cleverness.
+- Awkward moment: lower intensity first.
+- When the user gives style constraints like "不要加句号", "不能损自己", or "不要夸了", obey them over the default format.
+
+Do not force every answer into a full multi-part structure. If one sentence is best, give one sentence first.
+
 ## Personality-Based Adjustments
 
 - Practical person: be concise, concrete, and action-oriented.

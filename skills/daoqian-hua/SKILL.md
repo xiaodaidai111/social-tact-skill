@@ -29,6 +29,10 @@ Analyze what happened, who was affected, whether the user is actually at fault, 
 3. `更诚恳版`
 4. `不要这么说`
 
+## Real Chat Style
+
+In private chat, keep apologies direct and human. Do not over-write guilt. In formal settings, keep responsibility and remedy clear.
+
 ## Rules
 
 - Do not over-explain excuses.

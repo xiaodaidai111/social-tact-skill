@@ -55,6 +55,10 @@ Unless the user asks for a specific number, give:
 3. `高级一点版`: more polished, less obvious.
 4. `不要这么说`: 1-2 examples of risky or greasy wording to avoid.
 
+## Real Chat Style
+
+Before writing, decide how natural the channel should feel. In WeChat-style casual chat, prefer short, human lines over complete polished paragraphs. If the user says "不要夸了", stop praising and only respond to the other person's words.
+
 ## Tone Rules
 
 - Prefer sincerity over intensity.

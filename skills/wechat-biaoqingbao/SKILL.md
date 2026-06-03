@@ -60,6 +60,10 @@ Unless the user asks otherwise, provide:
 3. `推荐类型`: 2-3 sticker categories.
 4. `不建议`: what not to use and why.
 
+## Real Chat Style
+
+Suggest stickers only when they make the message feel more natural. Do not add stickers just because the skill is about stickers.
+
 ## Boundaries
 
 - Do not suggest flirtatious stickers in workplace, teacher-student, elder-junior, or client settings.
