@@ -17,6 +17,15 @@ Use this skill for short, natural social comments that keep the interaction aliv
 - 情绪低落
 - 群聊接话
 
+## Before Writing
+
+Analyze the poster's mood, relationship closeness, public visibility, and personality:
+
+- Low-key person: keep the comment short and not too loud.
+- Humorous friend: a light joke can work.
+- Sensitive person: avoid teasing and public exposure.
+- Work contact: comment on the achievement or effort, not private details.
+
 ## Default Output
 
 1. `简短自然版`
@@ -31,4 +40,3 @@ Use this skill for short, natural social comments that keep the interaction aliv
 - Match the poster's mood.
 - For sad posts, do not joke unless clearly appropriate.
 - Avoid public comments that expose private information.
-

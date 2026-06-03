@@ -13,6 +13,15 @@ Use this skill to push progress while preserving dignity and cooperation.
 先给台阶 + 明确事项 + 说明时间/影响 + 提供方便回复方式 + 感谢
 ```
 
+## Before Writing
+
+Analyze urgency, prior reminders, relationship, and the other person's personality:
+
+- Practical person: clear deadline and action.
+- Sensitive person: give a soft landing before the reminder.
+- Busy person: make replying easy, such as "回我 A/B 即可".
+- Repeated delay: stay polite but document facts and next step.
+
 ## Default Output
 
 1. `轻提醒版`
@@ -27,4 +36,3 @@ Use this skill to push progress while preserving dignity and cooperation.
 - Include deadline only when real.
 - If repeated follow-up failed, escalate politely and document facts.
 - For clients, keep it service-oriented but clear.
-

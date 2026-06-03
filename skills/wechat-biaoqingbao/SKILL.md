@@ -15,6 +15,7 @@ Identify:
 
 - **对象**: leader, teacher, elder, client, colleague, classmate, friend, partner, group chat.
 - **关系**: formal, ordinary, familiar, close, ambiguous, first contact.
+- **对方性格**: formal, practical, humorous, sensitive, introverted, playful, boundary-conscious.
 - **场景**: compliment, thanks, apology, refusal, asking for help, follow-up, dinner, gift, group reply, Moments comment.
 - **语气目标**: soften, warm up, ease embarrassment, show sincerity, make it lively, avoid pressure.
 
@@ -29,6 +30,13 @@ Default placement:
 - Light joke: one sticker after the punchline.
 - Apology or refusal: use a restrained sticker only after responsibility or boundary is clear.
 - Follow-up or reminder: use a softening sticker at the end, not before the request.
+
+## Personality Fit
+
+- Formal or practical person: no sticker, or one restrained `收到/感谢/点头` sticker.
+- Humorous friend: `捂脸/笑哭/可爱小动物` can work after the main point.
+- Sensitive person: use gentle stickers, not teasing stickers.
+- Boundary-conscious person: avoid overly cute, intimate, or repeated stickers.
 
 ## Sticker Type Categories
 
@@ -59,4 +67,3 @@ Unless the user asks otherwise, provide:
 - Do not put stickers before a clear refusal, apology, or request.
 - Avoid too many stickers. One is usually enough; two only for close friends.
 - For leaders, teachers, elders, and clients, prefer no sticker or a very restrained one.
-

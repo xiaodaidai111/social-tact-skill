@@ -13,6 +13,15 @@ Use this skill to write gratitude that is specific, warm, and not hollow.
 具体帮助 + 真实影响 + 感谢态度 + 适度收尾
 ```
 
+## Before Writing
+
+Identify the relationship, what the person did, the user's real benefit, and the other person's personality. Match the wording:
+
+- Practical person: say exactly what helped.
+- Sensitive person: add warmth and reassurance.
+- Elder, teacher, leader, or client: be respectful and concise.
+- Friend: be warmer and more relaxed.
+
 ## Default Output
 
 1. `稳妥版`
@@ -27,4 +36,3 @@ Use this skill to write gratitude that is specific, warm, and not hollow.
 - Avoid overpromising repayment.
 - For leaders, teachers, elders, and clients, stay respectful and concise.
 - For friends, keep it warmer and more relaxed.
-

@@ -17,6 +17,15 @@ Use this skill for dinner-table language that is warm, decent, and not embarrass
 - 圆场
 - 提前离席
 
+## Before Writing
+
+Analyze the seating context, who has higher status, whether alcohol is involved, the user's role, and the other person's personality:
+
+- Practical person: keep it short and sincere.
+- Face-conscious elder or leader: give respect and credit.
+- Humorous group: a light line can warm the table.
+- Formal client dinner: avoid jokes and drinking pressure.
+
 ## Default Output
 
 1. `稳妥版`
@@ -31,4 +40,3 @@ Use this skill for dinner-table language that is warm, decent, and not embarrass
 - Avoid excessive drinking pressure.
 - Give everyone face without exaggeration.
 - If alcohol is involved, do not pressure anyone to drink.
-

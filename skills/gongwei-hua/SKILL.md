@@ -13,6 +13,7 @@ Identify or infer:
 
 - **对象**: leader, teacher, elder, colleague, classmate, friend, client, partner, public speaker, creator.
 - **关系**: close, ordinary, formal, first meeting, superior-subordinate, peer.
+- **对方性格**: practical, low-key, sensitive, face-conscious, humorous, dominant, introverted.
 - **场景**: meeting, WeChat reply, comment, dinner, speech, gift note, interview, class, public post.
 - **目的**: thank, build rapport, encourage, respond politely, acknowledge effort, praise ability, praise taste.
 - **分寸**: low-key, warm, formal, humorous, enthusiastic.
@@ -36,6 +37,14 @@ Examples of what to praise:
 - Effort: preparation, persistence, responsibility.
 
 Avoid vague lines like "你太厉害了" unless paired with a concrete reason.
+
+## Personality Fit
+
+- Practical or low-key person: praise the concrete result or method, not the person too intensely.
+- Sensitive person: keep praise gentle and believable.
+- Face-conscious person: give respect and public credit when appropriate.
+- Humorous friend: a lighter compliment can work, but avoid sarcasm.
+- Leader, teacher, or client: do not sound like you are evaluating them from above.
 
 ## Output Modes
 
@@ -68,4 +77,3 @@ Do not write compliments that:
 
 - Read `references/compliment-patterns.md` for examples by relationship and scene.
 - Read `references/compliment-checklist.md` before finalizing high-stakes workplace, client, teacher, or elder compliments.
-
