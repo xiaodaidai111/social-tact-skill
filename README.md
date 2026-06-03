@@ -27,6 +27,7 @@
 | 送礼话术.skill | `songli-huashu` | 送老师、长辈、客户、朋友礼物时的表达 |
 | 催进度不伤人.skill | `cuijindu-bushangren` | 催回复、催交付、催确认，不显得咄咄逼人 |
 | 朋友圈评论.skill | `pengyou-quanquan` | 朋友圈、群聊、评论区的自然互动短句 |
+| 微信表情包指导.skill | `wechat-biaoqingbao` | 判断一句话里哪里插表情包、插哪类最合适 |
 
 ## 安装到 Codex
 
@@ -66,6 +67,10 @@ Use $tuiju-hua 帮我婉拒朋友借钱，不想伤感情。
 Use $cuijindu-bushangren 帮我催合作方今天确认方案，语气客气但要推进。
 ```
 
+```text
+Use $wechat-biaoqingbao 看看这句话适合在哪插微信表情包，插什么类型：辛苦你啦，这版已经很清楚了。
+```
+
 ## 输出风格
 
 默认给：
@@ -100,6 +105,7 @@ skills/
   songli-huashu/
   cuijindu-bushangren/
   pengyou-quanquan/
+  wechat-biaoqingbao/
 adapters/
 UNIVERSAL_PROMPTS.md
 ```
