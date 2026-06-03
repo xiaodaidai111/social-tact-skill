@@ -76,6 +76,8 @@ New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills" | Out-Null;
 
 ## 示例
 
+更多真实聊天示例见：`examples/real-chat-examples.md`
+
 ```text
 Use $gongwei-hua 帮我写三句夸领导今天分享的发言。领导性格比较务实，不喜欢太夸张，语气自然一点。
 ```
@@ -146,6 +148,7 @@ skills/
   pengyou-quanquan/
   wechat-biaoqingbao/
 adapters/
+examples/
 UNIVERSAL_PROMPTS.md
 ```
 
